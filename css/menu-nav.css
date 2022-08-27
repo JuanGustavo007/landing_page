@@ -1,0 +1,22 @@
+a {
+   text-decoration: none;
+   color: black;
+}
+
+li {
+   list-style: none;
+}
+
+.geral {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.menu-lista {
+   gap: 57px;
+}
+
+.fixo {
+   border-bottom: 2px solid black;
+}

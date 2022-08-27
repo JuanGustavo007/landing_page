@@ -1,0 +1,17 @@
+.academia {
+   background-color: rgba(0, 0, 0, 0.8);
+}
+
+.foto {
+   background-image: url('/assets/imgs/academ.jpg');
+   background-position: center;
+   background-size: cover;
+   height: 500px;
+   max-width: 1276px;
+   border-radius: 5px;
+
+}
+
+.h2-academia {
+   color: #fff;
+}

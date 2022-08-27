@@ -1,0 +1,14 @@
+.cuide {
+   border-bottom: 1px solid rgb(209, 209, 209);
+}
+
+.titulo-contato {
+   margin-bottom: 20px;
+   font-family: sans-serif;
+}
+
+.texto-contato {
+   font-size: 1rem;
+   font-family: sans-serif;
+   margin-bottom: 20px;
+}
